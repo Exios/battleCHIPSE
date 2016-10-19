@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1476193917 source:c:\users\tom\desktop\cours\codeblocksave\bataillenavale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+
